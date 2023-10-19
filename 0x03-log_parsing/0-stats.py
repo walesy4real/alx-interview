@@ -86,38 +86,4 @@ def run():
 
 if __name__ == '__main__':
 ()
-B
-B
-()
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
 
